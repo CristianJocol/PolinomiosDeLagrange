@@ -1,0 +1,13 @@
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.exe
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.deps.json
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.runtimeconfig.json
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.runtimeconfig.dev.json
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.dll
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\bin\Debug\netcoreapp3.1\polinomioDeLagrange.pdb
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.csprojAssemblyReference.cache
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.AssemblyInfoInputs.cache
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.AssemblyInfo.cs
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.dll
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.pdb
+D:\Proyectos Visual Studio\polinomioDeLagrange\polinomioDeLagrange\obj\Debug\netcoreapp3.1\polinomioDeLagrange.genruntimeconfig.cache
